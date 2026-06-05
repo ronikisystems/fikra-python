@@ -1,0 +1,9 @@
+# Fikra API — Environment Variables
+# Copy this file to .env and fill in your values.
+# Get your API key at https://fikraapi.co.ke/account/signup
+
+# Your Fikra API key (starts with fk_live_)
+FIKRA_API_KEY=your_fikra_api_key
+
+# Base URL — do not change this
+FIKRA_BASE_URL=https://api.fikraapi.co.ke/v1
