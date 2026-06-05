@@ -9,6 +9,8 @@ Python quickstart and examples for [Fikra API](https://fikraapi.co.ke) - the Ope
 
 ---
 
+- [Fikra Examples](https://github.com/ronikisystems/fikra-examples) : Example use cases using Fikra API
+
 Fikra API gives developers across East Africa and beyond access to powerful AI inference without the usual barriers - no Stripe account required, no $20 minimums, no VPN. Pay with M-Pesa and local payment apps. Start from KES 130. Get 2 million tokens per dollar.
 
 This repo contains everything you need to get started in under 5 minutes.
