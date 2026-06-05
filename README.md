@@ -1,6 +1,6 @@
 # fikra-python
 
-Python quickstart and examples for [Fikra API](https://fikraapi.co.ke) — the OpenAI-compatible AI inference API built for African developers.
+Python quickstart and examples for [Fikra API](https://fikraapi.co.ke) - the OpenAI-compatible AI inference API built for African developers.
 
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Fikra%20API-FF4500?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/posts/fikra-api)
 [![Fikra API](https://img.shields.io/badge/Fikra%20API-fikraapi.co.ke-FF4500?style=flat)](https://fikraapi.co.ke)
